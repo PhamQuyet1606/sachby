@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+# Ảnh gốc (nặng), trang chỉ dùng bản đã nén
+assets/cat.jpg
